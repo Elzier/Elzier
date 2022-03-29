@@ -13,7 +13,7 @@
 ### Languages and Tools:
 [<img align="left" alt="Web Storm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="Web Storm" width="26px" src="./img/ws-white.svg" style="padding-right:10px;" />][github-dark]
-[<img align="left" alt="Php Storm" width="26px" src="./img/phpstorm.svg" style="padding-right:10px;" />][github-dark]
+[<img align="left" alt="Php Storm" width="26px" src="./img/phpstorm.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][github]
