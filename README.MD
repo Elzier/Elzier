@@ -5,11 +5,11 @@
 - ⚡ Fun fact: I love fishing
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bohdan-boiko-8928171b1/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bohdan-boiko-8928171b1/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bohdan-boiko-8928171b1/#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bohdan-boiko-8928171b1/#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Elzzier#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Elzzier#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Elzzier#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Elzzier#gh-light-mode-only)
 
 ### Languages and Tools:
 
