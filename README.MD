@@ -29,6 +29,6 @@
 
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]([github]#gh-light-mode-only)
 
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]([github]#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />][github]
 
 [github]: https://github.com/Elzier
