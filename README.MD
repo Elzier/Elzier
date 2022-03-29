@@ -29,6 +29,6 @@
 
 [//]: # ([<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]&#40;[github]#gh-light-mode-only&#41;)
 
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]([github]#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://github.com/Elzier#gh-light-mode-only)
 
 [github]: https://github.com/Elzier
