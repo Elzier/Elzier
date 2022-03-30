@@ -1,5 +1,5 @@
 # Hi there, I'm Bohdan - aka Elzier 👋
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😅
 - 🥅 2022 Goals: Learn more about web3 and contribute more in open source projects
 - ⚡ Fun fact: I love fishing
 
